@@ -120,5 +120,5 @@ theme: stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'git@github.com:scetayh/sdick.tarikkochan.github.io'
+  repo: ''
   branch: 'main'
