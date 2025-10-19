@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 斯迪克平台·公测
-subtitle: 'Sdick Platform (gamma)'
+title: 斯迪克平台·急救
+subtitle: 'Sdick Platform (ICU)'
 description: 斯迪克 Sdick 斯迪克平台 'Sdick Platform' “迪克系列” 'Dick Series'
 keywords: 
-author: Dick Chicken’s Home
+author: Dick Chicken's Home
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://sdick.tarikkochan.top
+url: https://sdick-icu.tarikkochan.top
 permalink: :category/:title/
 permalink_defaults:
 pretty_urls:

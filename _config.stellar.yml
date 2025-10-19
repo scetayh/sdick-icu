@@ -16,7 +16,7 @@ preconnect:
 # 一旦设置源站地址，非源站地址将不会被SEO收录，并且访问时弹出提示
 # 如果访问地址不在备用站主机列表，则警告信息为非法克隆
 canonical:
-  originalHost: sdick.tarikkochan.top # 主站点域名主机，例如 xaoxuu.com
+  originalHost: sdick-icu.tarikkochan.top # 主站点域名主机，例如 xaoxuu.com
   officialHosts: # 官方主机列表，每行一个，例如 xaoxuu.vercel.app
     - localhost
     - 127.0.0.1
@@ -219,7 +219,7 @@ search:
 
 ######## Comments ########
 comments:
-  service: giscus # beaudar, utterances, giscus, twikoo, waline, artalk
+  # service: giscus # beaudar, utterances, giscus, twikoo, waline, artalk
   comment_title: “迪克系列”正是由像您这样的迪克维护的。欢迎加入讨论!
   lazyload: false # true / false
   custom_css: # artalk,twikoo,... 可以为没有全局启用的评论加载自定义样式
@@ -404,7 +404,7 @@ footer:
   content: | # 支持 Markdown 格式
     Dick Series © 2024 - 2025 by [Dick Series Contributors](/author/b001a) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified
     > 和我签订契约，成为~~大迪克~~答题卡吧！
-    Sdick Platform (gamma) 2024 - 2025 by [Dick Chicken’s Home](/author/b004a)
+    Sdick Platform (gamma) 2024 - 2025 by [Dick Chicken's Home](/author/b004a)
     based on [Hexo](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree})
     > 隐藏着黑暗力量的迪克啊，在我面前显示你真正的力量！现在以你的主人Dick Chicken's Home之名命令你——封印解除！
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
