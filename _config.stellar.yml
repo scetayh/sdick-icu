@@ -377,25 +377,24 @@ footer:
         # - ‘[作者署名列表](/authors/)’
         - '[留言板](/liuyanban/)'
         - '[音乐盒](/yinyuehe/)'
-    - title: 平台
-      items:
-        - '[斯迪克平台·公测](https://sdick.tarikkochan.top)'
-        - '[旧版平台](https://sdick-old.tarikkochan.top)'
-        - '[迪克周报托管网站](https://dickzhouboom.tarikkochan.top)'
-    - title: GitHub 仓库
-      items:
-        - '[Pages 托管](https://github.com/scetayh/sdick.tarikkochan.github.io)'
-        - '[源码树](https://github.com/scetayh/sdick)'
-        - '[giscus](https://github.com/scetayh/sdick-giscus)'
-        - '[Gitee 发行版](https://gitee.com/scetayh/stick/releases)'
-        - '[伪镜像站](https://github.com/scetayh/mirrors.sdick.tarikkochan.github.io)'
-        - '[旧版平台 Pages 托管](https://github.com/scetayh/sdick-old.tarikkochan.github.io)'
-        - '[旧版平台源码树](https://github.com/scetayh/sdick-old)'
-        - '[迪克周报托管](https://github.com/scetayh/dickzhouboom.tarikkochan.github.io)'
-        - '[SPT](https://github.com/scetayh/spt)'
+    # - title: 平台
+    #   items:
+    #     - '[斯迪克平台·急救](https://sdick-icu.tarikkochan.top)'
+    # - title: GitHub 仓库
+    #   items:
+    #     - '[Pages 托管](https://github.com/scetayh/sdick.tarikkochan.github.io)'
+    #     - '[源码树](https://github.com/scetayh/sdick)'
+    #     - '[giscus](https://github.com/scetayh/sdick-giscus)'
+    #     - '[Gitee 发行版](https://gitee.com/scetayh/stick/releases)'
+    #     - '[伪镜像站](https://github.com/scetayh/mirrors.sdick.tarikkochan.github.io)'
+    #     - '[旧版平台 Pages 托管](https://github.com/scetayh/sdick-old.tarikkochan.github.io)'
+    #     - '[旧版平台源码树](https://github.com/scetayh/sdick-old)'
+    #     - '[迪克周报托管](https://github.com/scetayh/dickzhouboom.tarikkochan.github.io)'
+    #     - '[SPT](https://github.com/scetayh/spt)'
     - title: 社交
       items:
         - '[幻想界域巡録](https://tarikkochan.top)'
+        - '[賾月境界奇譚](https://blog.tarikkochan.top)'
         - '[絵空初咲](https://blog-old.tarikkochan.top)'
         - '[艾雅莉娅·普瑞斯柯特](https://ayaria.top)'
     # - title: 更多
