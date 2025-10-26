@@ -3,7 +3,7 @@ title: 硝基苯的救赎并序
 date: 2025-04-26 00:00:00
 # date: 2025-08-05 00:00:00
 tags: []
-categories: [故事新编]
+categories: [钴事新编]
 description: 
 
 cover: 

@@ -2,7 +2,7 @@
 title: 童话之外的往事（2）
 date: 2025-08-05 00:00:00
 tags: []
-categories: [故事新编]
+categories: [钴事新编]
 description: 
 
 cover: 

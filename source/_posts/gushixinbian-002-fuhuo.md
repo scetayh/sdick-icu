@@ -3,7 +3,7 @@ title: 负活
 date: 2024-11-30 00:00:00
 # date: 2025-08-05 00:00:00
 tags: []
-categories: [故事新编]
+categories: [钴事新编]
 description: 
 
 cover: 
