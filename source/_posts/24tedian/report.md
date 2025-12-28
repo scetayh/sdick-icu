@@ -1,11 +1,11 @@
 ---
-title: 【周报】第3刊（总第7刊） 2025.7.21 - 2025.8.17 暑假特别刊
-date: 2025-08-16 17:10:00
+title: Dick 2024 年度报告
+date: 2024-12-30 00:00:00
 tags: []
-categories: [迪克周报（Dick ZhǒU BooM!）,第二期（2025年）]
+categories: [2024年度特典]
 description: 
 
-cover: /zhoubao/25/zhoubao-25-0817/000.jpeg
+cover: /24tedian/report/000.jpeg
 banner:
 # 海报（全图封面卡片，可选）
 poster:
@@ -26,7 +26,7 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: b003a
+author: b005a
 references:
 # 设置 false 禁止评论
 comments: 
@@ -47,6 +47,3 @@ type:
 {% image 002.jpeg download:true width: padding: bg: fancybox: %}
 
 {% image 003.jpeg download:true width: padding: bg: fancybox: %}
-
-{% image 004.jpeg download:true width: padding: bg: fancybox: %}
-

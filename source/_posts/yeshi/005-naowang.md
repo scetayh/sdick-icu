@@ -1,11 +1,11 @@
 ---
-title: 【周报】第2刊（总第6刊） 2025.1.20 - 2025.2.9
-date: 2025-02-08 17:10:00
+title: 野史·育国猱王本纪
+date: 2025-07-07 00:00:00
 tags: []
-categories: [迪克周报（Dick ZhǒU BooM!）,第二期（2025年）]
+categories: [野史]
 description: 
 
-cover: /zhoubao/25/zhoubao-25-0209/000.jpeg
+cover: 
 banner:
 # 海报（全图封面卡片，可选）
 poster:
@@ -26,7 +26,7 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: b003a
+author: a007a
 references:
 # 设置 false 禁止评论
 comments: 
@@ -40,12 +40,10 @@ rightbar:
 h1: 
 # tech/story
 type: 
+
+hidden: true
 ---
 
 {% image 001.jpeg download:true width: padding: bg: fancybox: %}
 
 {% image 002.jpeg download:true width: padding: bg: fancybox: %}
-
-{% image 003.jpeg download:true width: padding: bg: fancybox: %}
-
-{% image 004.jpeg download:true width: padding: bg: fancybox: %}

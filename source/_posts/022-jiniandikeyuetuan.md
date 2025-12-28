@@ -1,12 +1,12 @@
 ---
 # 基本信息
 title: 记念笛客乐团
-date: 2025-10-5 00:00:00
+date: 2025-10-05 00:00:00
 tags: []
 categories: []
 description: 
 # 封面
-cover: /uncategorized/022-jiniandikeyuetuan/000.jpeg
+cover: /022-jiniandikeyuetuan/000.jpeg
 banner: 
 poster: # 海报（可选，全图封面卡片）
   topic: # 标题上方的小字 可选

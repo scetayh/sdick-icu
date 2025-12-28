@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://sdick-icu.tarikkochan.top
-permalink: :category/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -122,3 +122,9 @@ deploy:
   type: 'git'
   repo: ''
   branch: 'main'
+
+# hexo-hide-posts
+hide_posts:
+  filter: hidden
+  public_generators: []
+  noindex: true

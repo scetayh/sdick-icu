@@ -42,6 +42,8 @@ rightbar:
 h1: 
 # tech/story
 type: 
+
+hidden: true
 ---
 
 {% blockquote %}

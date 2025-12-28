@@ -1,11 +1,11 @@
 ---
-title: 【周报】{{ title }}
-date: {{ date }}
+title: 蛇年珍藏限定（贺卡）
+date: 2024-12-30 00:00:00
 tags: []
-categories: [迪克周报（Dick ZhǒU BooM!）,第一期（2024年）]
+categories: [2024年度特典]
 description: 
 
-cover: /zhoubao/24/zhoubao-24-/000.jpeg
+cover: /24tedian/card/002.jpeg
 banner:
 # 海报（全图封面卡片，可选）
 poster:
@@ -26,7 +26,7 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: b003a
+author: b005a
 references:
 # 设置 false 禁止评论
 comments: 
@@ -42,3 +42,6 @@ h1:
 type: 
 ---
 
+{% image 001.jpeg download:true width: padding: bg: fancybox: %}
+
+{% image 002.jpeg download:true width: padding: bg: fancybox: %}

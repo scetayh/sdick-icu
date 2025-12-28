@@ -5,7 +5,7 @@ tags: []
 categories: [“金迪克杯”参赛作品集,第1届：毕斯特杯]
 description: 
 
-cover: /jindikebei/1/jindikebei-1-007-yucaigongfu/000.jpeg
+cover: /jindikebei/1/007-yucaigongfu/000.jpeg
 banner:
 # 海报（全图封面卡片，可选）
 poster:

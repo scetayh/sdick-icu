@@ -29,6 +29,8 @@ leftbar:
 rightbar:
 h1: # 设置为 '' 隐藏标题
 type: # tech/story
+
+hidden: true
 ---
 
 {% note color:error '内容未上传' 该文章的纸质原稿未上传。 %}
